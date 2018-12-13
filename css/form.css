@@ -1,0 +1,21 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+	text-align:center;
+	background-image: url(../images/header.jpg);
+	background-repeat:no repeat;
+	background-size:cover;
+	margin:10px;
+}
+
+#form{
+	box-shadow:0 6px 11px #0fbbd5;
+	background:white;
+
+}
+
+#date{
+	text-align:left;
+}
